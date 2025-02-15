@@ -19,8 +19,8 @@ J.	This question paper contains 12 questions. All questions are compulsory.
 c = 3 x 108 mis
 h = 6.63 x 10-34 Js
 e = 1.6 x 10-19 C
-µ = 4n x 10-1 Tm A-1
-£0 = 8.854 X 10-12 C2 N-1 m-2
+Âµ = 4n x 10-1 Tm A-1
+Â£0 = 8.854 X 10-12 C2 N-1 m-2
 
 
 1
@@ -39,7 +39,7 @@ Avogadro's number= 6.023 x 1023 per gram mole Boltzmann constant= 1.38 x 10-23 J
 
 
 SECTION A
-1. Give two differences between a half wave rectifier and a full wave·rectifier.	2
+1. Give two differences between a half wave rectifier and a full waveÂ·rectifier.	2
 2. Why a photo-diode is operated in reverse bias whereas current in the forward	2
 bias is much larger than that in the reverse bias ? Explain. Mention its two uses.
 
@@ -136,8 +136,14 @@ A
 
 
 
-11.	(i)Draw V-I characteristics of a p-n Junction diode.3
-(ii)Differentiate between the threshold voltage and the breakdown . voltage for a diode.
+11.	(i)
+Draw V-I characteristics of a p-n Junction diode.
+3
+
+(ii)
+Differentiate between the threshold voltage and the breakdown . voltage for a diode.
+
+
 
 (iii) Write the property of a junction diode which makes it suitable for rectification of ac voltages.
 
@@ -152,24 +158,24 @@ SECTION C
 bends away from the normal. When we keep increasing the angle of incidence, the angle of refraction also increases till the refracted ray grazes along the interface of two media.The angle ofincidence for which it happens is called critical angle. If the angle of incidence is increased further the ray will not emerge and it will be reflected back in the denser medium. This
 phenomenon is called total internal reflection of light.
 
-(i) A ray oflight travels from a medium into water at an angle of incidence of 18°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20°. Which one of the following figures best represents the correct path of the ray of light ?
+(i) A ray oflight travels from a medium into water at an angle of incidence of 18Â°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20Â°. Which one of the following figures best represents the correct path of the ray of light ?
 
 (A) (B)
 
 (C)	(D)
 
 
-(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index µ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
+(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index Âµ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
 
-    (c) 2	µ2_1	
+    (c) 2	Âµ2_1	
 (iii) For which of the following media, with respect to air, the value of critical angle is maximum ?
-(a) Crown glass	(b) Flint glass	(c) Water	· (d) Diamond
+(a) Crown glass	(b) Flint glass	(c) Water	Â· (d) Diamond
 
 (iv) The critical angle for a pair of two media A and B ofrefractive indices
 2.0 and 1.0 respectively is :
-(b) 30°	(c) 45°	(d) 60°
+(b) 30Â°	(c) 45Â°	(d) 60Â°
 
-(v) The critical angle of pair of a medium and air is 30°. The speed of light in the medium is :
+(v) The critical angle of pair of a medium and air is 30Â°. The speed of light in the medium is :
 
 (a)	1 x 108 m s-1
 
