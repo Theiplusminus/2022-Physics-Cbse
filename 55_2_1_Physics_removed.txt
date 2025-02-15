@@ -38,10 +38,26 @@ SECTION B
 (ii) Write three characteristics of electromagnetic waves.	3
 OR
 
-(b)Namethe electromagnetic waves which are produced by the following :(i)Radioactive decays of nucleus(ii)Welding arcs(iii)
-WriteHot bodies
-one use each of these waves.
-3
+(b)
+Name
+the electromagnetic waves which are produced by the following :
+
+
+(i)
+Radioactive decays of nucleus
+
+
+(ii)
+Welding arcs
+
+
+(iii)
+Write
+Hot bodies
+one use each of these waves.
+
+3
+
 
 5. (a)	State the conditions for total internal reflection to take place.
 (b)	    
@@ -57,11 +73,11 @@ OR
 
 (i) Depict the intensity distribution in the pattern observed.
 (ii) Obtain the expression for the first maximum from the central maximum.	3
-7. A converging lens made of glass (	= 1·5) has its spherical faces of radii of curvature 10 cm and 20 cm. Find its focal length
+7. A converging lens made of glass (	= 1Â·5) has its spherical faces of radii of curvature 10 cm and 20 cm. Find its focal length
 (a) in air, and
-(b) when it is immersed in a liquid of refractive index 1·25.	3
-8. The energy of a hydrogen atom in the first excited state is	3·4 eV. Find :
-(a) the radius of this orbit. (Take Bohr radius = 0·53 Å)
+(b) when it is immersed in a liquid of refractive index 1Â·25.	3
+8. The energy of a hydrogen atom in the first excited state is	3Â·4 eV. Find :
+(a) the radius of this orbit. (Take Bohr radius = 0Â·53 Ã…)
 (b) the angular momentum of the electron in the orbit.
 (c) the kinetic and potential energy of the electron in the orbit.	3
 
@@ -72,9 +88,9 @@ by working out Q value of the process.	3
 
 Given : m  56
 
-= 55·93494 u, m  28
+= 55Â·93494 u, m  28
 
-= 27·98191 u.
+= 27Â·98191 u.
 
 10. Find the ratio of the de Broglie wavelengths associated with an alpha particle and a proton, if both
 (a) have the same speeds,
