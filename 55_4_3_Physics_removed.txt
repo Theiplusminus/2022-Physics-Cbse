@@ -51,25 +51,25 @@ SECTION B
 2	2	3	1
 1	1	0
 
-3·27 MeV
+3Â·27 MeV
 
 
 Find the duration for which an electric bulb of 500 W can be kept glowing by the fusion of 100 g of deuterium.	3
 6. Briefly explain how bright and dark fringes are formed on a screen due to the diffraction at a single slit. Hence, explain why the intensity at the
 bright fringes decreases sharply as their order (n) increases.	3
 7. (a)	(i)	Draw a labelled ray diagram showing the formation of the image at infinity by an astronomical telescope.
-(ii) A telescope consists of an objective of focal length 150 cm and an eyepiece of focal length 6·0 cm. If the final image is formed at infinity, then calculate :
+(ii) A telescope consists of an objective of focal length 150 cm and an eyepiece of focal length 6Â·0 cm. If the final image is formed at infinity, then calculate :
 (I) the length of the tube in this adjustment, and
 (II) the magnification produced.	3
 OR
 (b) (i)  Draw a labelled ray diagram showing the formation of the image at least distance of distinct vision by a compound microscope.
-(ii) A small object is placed at a distance of 3·0 cm from a magnifier of focal length 4·0 cm. Find :
+(ii) A small object is placed at a distance of 3Â·0 cm from a magnifier of focal length 4Â·0 cm. Find :
 (I) the position of the image formed, and
 (II) the linear magnification produced.	3
 
 8. A	proton			is	accelerated	through			a	potential	difference		V.		After acceleration, the de Broglie wavelength associated with it is			. If the proton	is		replaced	by	an		alpha	particle,	then		find	the	de Broglie wavelength associated with it if it were accelerated through the same potential	difference		V.	 What	will		be the momentum of the		alpha particle ?																								3
 9. (a)   In Geiger-Marsden experiment, calculate the distance of closest
-approach for an alpha particle with energy 2·56  10 12 J. Consider that the particle approaches gold nucleus (Z = 79) in head-on position.
+approach for an alpha particle with energy 2Â·56  10 12 J. Consider that the particle approaches gold nucleus (Z = 79) in head-on position.
 (b)	If the above experiment is repeated with a proton of the same energy, then what will be the value of the distance of closest approach ?	3
 10. (a)	Identify electromagnetic waves which :
 (i) are used in radar system.
