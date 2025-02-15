@@ -10,7 +10,7 @@ Read the following instructions very carefully and strictly follow them :
 c = 3 x 108 m./s
 h = 6.63 x 10-34 Js
 e = 1.6 x 10-19 C
-µ0 = 4n x 10-7 Tm. A-1
+Âµ0 = 4n x 10-7 Tm. A-1
 to = 8.854 X 10-12 C2 N-1 m.-2
 
 
@@ -45,7 +45,7 @@ observed on a screen 1 m away, find the distance of	3
 (i) first minim um, and
 (ii) second maximum, from the central maximum.
 OR
-(b) A thin equiconvex lens of radius of curvature R made of material of refractive index µ1 is kept coaxially, in contact with an equiconcave lens of the same radius of curvature and refractive index µ 2 (> µl). Find:
+(b) A thin equiconvex lens of radius of curvature R made of material of refractive index Âµ1 is kept coaxially, in contact with an equiconcave lens of the same radius of curvature and refractive index Âµ 2 (> Âµl). Find:
 (i) the ratio of their powers, and
 (ii) the power of the combination and its nature.
 
@@ -106,7 +106,7 @@ m1 > m2 > m3
 
 
 
-IV. In a Young's double slit experiment, the slit separation is 0.8 mm and the interference pattern is obtained on a screen kept 50 cm from the plane of the slits S1 and S2• If the first bright fringe is formed 0.4 mm from the central maximum, the wavelength of light used is
+IV. In a Young's double slit experiment, the slit separation is 0.8 mm and the interference pattern is obtained on a screen kept 50 cm from the plane of the slits S1 and S2â€¢ If the first bright fringe is formed 0.4 mm from the central maximum, the wavelength of light used is
 (A)  480 nm	(B)  560 nm
 (C)  640 nm	(D)  680 nm
 
