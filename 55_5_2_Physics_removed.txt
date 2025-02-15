@@ -20,7 +20,7 @@ Please read tlte following instructions carefully and follow them :
 c = 3 x 108 m/s
 h= 6.63 X 10-34 JS
 e = 1.6 x 10-19 C
-µ =41tx 10-1TmA-1
+Âµ =41tx 10-1TmA-1
 0
 
 Eo = 8.854 X 10-12 C2 N-1 m-2
@@ -93,7 +93,7 @@ A
 (ii) The angle of minimum deviation for this prism.
 
 9. (a)	Use Bohr's postulate to prove that the radius of nth orbit in a hydrogen	3
-atom is proportional to n2•
+atom is proportional to n2â€¢
 (b) How will the energy of a hydrogen atom change if n increases from
 1 to oo ?
 
@@ -127,7 +127,7 @@ SECTION C
 bends away from the normal. When we keep increasing the angle of incidence, the angle of refraction also increases till the refracted ray grazes along the interface of two media. The angle ofincidence for which it happens is called critical angle. If the angle of incidence is increased further the ray will not emerge and it will be reflected back in the denser medium. This
 phenomenon is called total internal reflection of light.
 
-(i) A ray oflight travels from a medium into water at an angle ofincidence of 18°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20°. Which one of the following figures best represents the correct path of the ray of light ?
+(i) A ray oflight travels from a medium into water at an angle ofincidence of 18Â°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20Â°. Which one of the following figures best represents the correct path of the ray of light ?
 
 (A) (B)
 (C)	(D)
@@ -137,12 +137,12 @@ phenomenon is called total internal reflection of light.
 
 
 
-(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index µ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
+(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index Âµ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
 
 
 1td2
 
-(c) 2.Jµ2_1
+(c) 2.JÂµ2_1
 
 
 (iii) For which of the following media, with respect to air, the value of critical angle is maximum ?
@@ -150,9 +150,9 @@ phenomenon is called total internal reflection of light.
 
 (iv) The critical angle for a pair of two media Aand B of refractive indices
 2.0 and 1.0 respectively is :
-(a) 0°	(b) 30°	(c) 45°	(d) 60°
+(a) 0Â°	(b) 30Â°	(c) 45Â°	(d) 60Â°
 
-(v) The critical angle of pair of a medium and air is 30°. The speed of light in the medium is :
+(v) The critical angle of pair of a medium and air is 30Â°. The speed of light in the medium is :
 
 (a) 1 x 108 m s-1
 (c)	2.2 x 108 m s-1
