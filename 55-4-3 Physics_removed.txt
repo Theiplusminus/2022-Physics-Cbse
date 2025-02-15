@@ -1,0 +1,215 @@
+General Instructions :
+
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 12 questions. All questions are compulsory.
+(ii) This question paper is divided into three sections	Section A, B, and C.
+(iii) Section A	Questions no. 1 to 3 are of 2 marks each.
+(iv) Section B	Questions no. 4 to 11 are of 3 marks each.
+(v) Section C	Question no. 12 is a Case Study-Based Question of 5 marks.
+(vi) There is no overall choice in the question paper. However, internal choice has been provided is some of the questions. Attempt any one of the alternatives in such questions.
+(vii) Use of log tables is permitted, if necessary, but use of calculator is not
+permitted.
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+
+SECTION A
+1. (a)	Name the spectral series for a hydrogen atom which lies in the visible region. Find the ratio of the maximum to the minimum wavelengths of this series.	2
+OR
+(b) What are matter waves ? A proton and an alpha particle are accelerated through the same potential difference. Find the ratio of the de Broglie wavelength associated with the proton to that with
+the alpha particle.	2
+2. What is meant by energy band gap in a solid ? Draw the energy band diagrams for a conductor, an insulator and a semiconductor.	2
+3. Define barrier potential. Why does the thickness of the depletion layer in
+a p-n junction diode vary with increase in reverse bias ?	2
+
+
+SECTION B
+
+4. Answer the following, giving reason :	3 1=3
+
+(a) The resistance of a p-n junction is low when it is forward biased and is high when it is reversed biased.
+(b) Doping of intrinsic semiconductors is a necessity for making electronic devices.
+(c) Photodiodes are operated in reverse bias.
+
+
+5. (a)	Differentiate between nuclear fission and nuclear fusion.
+
+(b)	Deuterium undergoes fusion as per the reaction :
+
+
+2	2	3	1
+1	1	0
+
+3·27 MeV
+
+
+Find the duration for which an electric bulb of 500 W can be kept glowing by the fusion of 100 g of deuterium.	3
+6. Briefly explain how bright and dark fringes are formed on a screen due to the diffraction at a single slit. Hence, explain why the intensity at the
+bright fringes decreases sharply as their order (n) increases.	3
+7. (a)	(i)	Draw a labelled ray diagram showing the formation of the image at infinity by an astronomical telescope.
+(ii) A telescope consists of an objective of focal length 150 cm and an eyepiece of focal length 6·0 cm. If the final image is formed at infinity, then calculate :
+(I) the length of the tube in this adjustment, and
+(II) the magnification produced.	3
+OR
+(b) (i)  Draw a labelled ray diagram showing the formation of the image at least distance of distinct vision by a compound microscope.
+(ii) A small object is placed at a distance of 3·0 cm from a magnifier of focal length 4·0 cm. Find :
+(I) the position of the image formed, and
+(II) the linear magnification produced.	3
+
+8. A	proton			is	accelerated	through			a	potential	difference		V.		After acceleration, the de Broglie wavelength associated with it is			. If the proton	is		replaced	by	an		alpha	particle,	then		find	the	de Broglie wavelength associated with it if it were accelerated through the same potential	difference		V.	 What	will		be the momentum of the		alpha particle ?																								3
+9. (a)   In Geiger-Marsden experiment, calculate the distance of closest
+approach for an alpha particle with energy 2·56  10 12 J. Consider that the particle approaches gold nucleus (Z = 79) in head-on position.
+(b)	If the above experiment is repeated with a proton of the same energy, then what will be the value of the distance of closest approach ?	3
+10. (a)	Identify electromagnetic waves which :
+(i) are used in radar system.
+(ii) affect a photographic plate.
+(iii) are used in surgery.
+Write their frequency range.	3
+OR
+(b)	A plane wavefront is propagating from a rarer into a denser medium. Use Huygens principle to show the refracted wavefront
+	 3
+
+11. A diver looking up through	water (	= contained in a
+
+4 )  sees  the  outside	world
+3
+
+
+m below the surface of water, then calculate the area of the circle.	3
+
+SECTION C
+
+12.  Two transparent media of refractive indices n1 and n2 are separated by a spherical transparent surface. The rays of light incident on the surface
+get refracted into the medium on the other side. The laws of refraction are valid at each point of the spherical surface. A lens is a transparent optical medium bounded by two surfaces, at least one of which should be spherical. The focal length of a lens is determined by the radii of
+curvature (R1 and R2) of its two surfaces and the refractive index (n) of the  medium  of  the  lens  with  respect  to  the  surrounding  medium.
+Depending on R1 and R2, a lens behaves as a diverging or a converging lens. The ability of a lens to diverge or converge a beam of light incident
+on it defines its power.
+(a) An object is placed at the point B as shown in the figure. The object distance (u) and the image distance (v) are related as
+
+
+
+
+
+(i)
+
+1	1	n2	n1	 1
+	
+v	u	n1	R
+
+
+
+
+(ii)
+
+1	1	n1	n2	 1
+	
+v	u	n2	R
+
+
+
+
+(iii)
+
+(iv) 
+
+n2	n1
+ 
+v	u
+n1	n2
+
+v	u
+
+(n2
+
+(n1
+
+n1 )
+R
+n2 )
+R
+
+
+(b)                   
+spherical refracting surface of radius of curvature R. If the medium on the other side of the surface is glass, then the image is :
+(i) real and formed in glass.
+
+(ii) real and formed in air.
+
+(iii) virtual and formed in glass.
+
+(iv) virtual and formed in air.
+
+
+(c) An object is kept at 2F in front of an equiconvex lens. The image formed is :
+(i) real and of the size of the object.
+
+(ii) virtual and of the size of the object.
+
+(iii) real and enlarged.
+
+(iv) virtual and diminished.
+
+
+(d) A thin converging lens of focal length 10 cm and a thin diverging lens of focal length 20 cm are placed coaxially in contact. The power of the combination is :
+(i) 5 D
+
+(ii)   + 5 D
+
+(iii)  + 15 D
+
+(iv)    15 D
+
+
+(e) An equiconcave f  along the dotted line as shown in the figure. The focal length of each part will be :
+
+
+
+
+(i) f
+4
+
+(ii) f
+2
+
+(iii) f
+
+(iv) 2f	5 1=5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

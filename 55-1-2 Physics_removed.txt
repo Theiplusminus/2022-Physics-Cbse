@@ -1,0 +1,148 @@
+General Instructions:
+Read the following instructions very carefully and strictly follow them :
+(i) This	question	paper	contains	12	questions.	All	questions	are compulsory.
+(ii) This question paper is divided into three sections - Section A, B and C.
+(iii) Section A: Q. Nos. 1 to 3 are of 2 marks each.
+(iv) Section B : Q. Nos. 4 to 11 are of 3 marks each.
+(v) Section C: Q. Nos. 12 is a case study based question of 5 marks.
+(vi) There is no overall choice in the question paper. However, internal choice has been provided in some of the questions. Attempt any one of the alternatives in such questions.
+(vii) Use of log tables is permitted, if necessary, but use of calculator is not permitted.
+c = 3 x 108 m./s
+h = 6.63 x 10-34 Js
+e = 1.6 x 10-19 C
+µ0 = 4n x 10-7 Tm. A-1
+to = 8.854 X 10-12 C2 N-1 m.-2
+
+
+1
+--=	9 x 109
+4nc0
+
+N m.2
+
+c-2
+
+
+Mass of electron (m.e) = 9.1 x 10-31 kg
+
+Mass of neutron= 1.675 x 10-27 kg Mass of proton= 1.673 x 10-27 kg
+Avogadro's number= 6.023 x 1023 per gram. m.ole Boltzmann constant = 1.38 x 10-23 JK-1
+
+SECTION-A
+1. Explain the formation of depletion layer and barrier potential in a p-n junction diode.	2
+2. Draw energy band diagrams of n-type and p-type semiconductors at temperature T > OK, depicting the donor and acceptor energy levels. Mention the significance of these levels.	2
+3. (a)	Draw the graph showing the variation of the number (N) of scattered alpha particles with scattering angle (0) in	Geiger -	Marsden experiment. Infer two conclusions from the graph.			2
+OR
+(b) Plot suitable graphs to show the variation of photoelectric current with the collector plate potential for the incident radiation of
+(i) the same intensity but different frequencies v1, v2 and v3 (v1 < v2 < v3)
+(ii) the same frequency but different intensities I1, 12 and  13 (I 1 < 12 < 13)
+
+
+SECTION-B
+4. Explain with the help of a suitable diagram, the phenomenon on which an optical fibre works. Mention any two uses of optical fibres.	3
+
+5. Ultra-violet light of wavelength 200 nm from a source is incident on a metal surface. If the stopping potential is -2.5 V, (a) calculate the work
+function of the metal, and (b) How would the surface respond to a high intensity red light of wavelength 6328 A produced by a laser ?	3
+
+6. (a)	A parallel beam of light of wavelength 600 nm is incident normally on a slit of width 0.2 mm. If the resulting diffraction pattern is
+observed on a screen 1 m away, find the distance of	3
+(i) first minim um, and
+(ii) second maximum, from the central maximum.
+OR
+
+(b) A thin equiconvex lens of radius of curvature R made of material of refractive index µ1 is kept coaxially, in contact with an equiconcave lens of the same radius of curvature and refractive index µ2 (>µ1). Find:
+(i) the ratio of their powers, and
+(ii) the power of the combination and its nature.
+
+
+
+7. (a)	(i)	Monochromatic light is incident on a surface separating two media. The frequency of the	light after refraction remams unaffected but its wavelength changes. Why ?	3
+(ii)	The frequency of an electromagnetic radiation is 1.0 x 1011 Hz. Identify the radiation and mention its two uses.
+OR
+(b)  (i)  Trace the path of a ray of light PQ which is incident at an angle i on one face of a glass prism of angle A. It then emerges out from the other face at an angle e. Use the ray diagram to prove that the angle through which the ray is deviated is given by L8 = Li
++ Le-LA.
+(ii)	What will be the	mm1mum value of 8 if the	ray	passes symmetrically through the prism ?
+
+8. State the working principle of an	LED. Write any two important advantages and two disadvantages of LED.	3
+
+9. (a)	Sketch the energy level diagram for hydrogen atom.	3
+(b) Find the ratio of the longest and the shortest wavelength in Lyman series in hydrogen atom.
+10. Find the two possible positions of an object kept in front of a lens of+ 5.0
+D, so that the image formed in both cases is four times magnified.	3
+
+11. Calculate the energy released in MeV in the following reaction :	3
+2H+ 3 H	4
+1	1	2He+n
+Given:	m(iH) = 2.014102 u
+
+m( H) = 3.016049 u
+m(!He) = 4.002603 u mn = 1.008665 u
+
+SECTION-C CASE STUDY
+12. The principle of superposition is used to understand the phenomenon of interference of light waves. The principle states that at a particular point, the resultant displacement produced by a number of waves is the vector sum of the displacements produced by each wave. Light waves from two coherent sources produce interference pattern. Thomas Young devised a way to obtain two coherent sources using two identical pinholes (81 and 82) illuminated by a single monochromatic pinhole source 8. Using these sources in his experiment known as Young's double slit experiment, Young studied the interference pattern. The pattern consists of alternate bright and dark fringes. The distance between two successive bright or dark finges depends on the distance between 81 and 82, the distance of the
+screen from the plane of 8182 and the wavelength of light used.	5
+
+I. Consider the following waves :
+(i) y1 = a sin rot
+(ii) y2 = a sin 2rot
+(iii) y3 = a sin (2rot + )
+(iv) y4 = a sin ( 4rot + )
+
+
+Which pair of the waves produce interference ?
+(A) (i) and (ii)
+(C) (iii) and (iv)
+
+coming from two sources 81 and	82 will
+
+(B) (ii) and (iii)
+(D)	(iv) and (i)
+
+II. Two light waves of the same intensity I0 each, having a path difference of ,J4, emanating from two coherent sources, meet at a point. The resultant intensity at the point will be
+(A)	Zero	(B)	I0
+(C)	2 I0	(D)	4 I0
+
+III. Vandana performs Young's double slit experiment by using orange, green and red lights successively. If the fringe widths measured in the three cases are m1, m2 and m3 respectively, then which of the following is correct ?
+
+(A) m2 > m1 > m3
+(C)	m2 > m3 > m1
+(B) 
+m1 > m2 > m3
+(D) m3 > m1 > m2
+
+
+
+IV. In a Young's double slit experiment, the slit separation is 0.8 mm and the interference pattern is obtained on a screen kept 50 cm from the plane of the slits S1 and S2• If the first bright fringe is formed 0.4 mm from the central maximum, the wavelength of light used is
+(A)  480 nm	(B)  560 nm
+(C)  640 nm	(D)  680 nm
+
+V. Consider the effect on the angular separation of the fringes m a Young's double slit experiment due to the following operations:
+(i) the screen is moved away from the plane of the slits,
+(ii) the separation between the two slits is increased till fringes are observed.
+Which of the following options is correct ?
+(A) It remains constant in both cases.
+(B) It decreases in both cases.
+(C) It remains constant in (i) but decreases in (ii).
+(D) It decreases in (i) but remains constant in (ii).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
