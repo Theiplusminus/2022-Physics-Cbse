@@ -43,9 +43,9 @@ by working out Q value of the process.	3
 
 Given : m  56
 
-= 55·93494 u, m  28
+= 55Â·93494 u, m  28
 
-= 27·98191 u.
+= 27Â·98191 u.
 
 5. With  the  help  of  a  circuit  diagram,  explain  the  working  of  a p-n junction diode as a full-wave rectifier. Also draw its input and output
 waveforms.	3
