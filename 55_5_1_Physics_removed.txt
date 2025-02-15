@@ -26,7 +26,7 @@ C = 3 X 108m/s
 h = 6.63 x 10-34 Js
 e = 1.6 x 10-19 C
 
-£0 = 8.854 X 10-12 C2 N-1 m-2
+Â£0 = 8.854 X 10-12 C2 N-1 m-2
 
 --	= 9 X 109 N m2 c-2
 4neo
@@ -52,7 +52,7 @@ bias is much larger than that in the reverse bias ? Explain. Mention its two use
 SECTION B
 
 4. Draw a graph showing the variation of number of particles scattered (N)	3
-with the scattering angle 0 in Geiger-Marsden experiment. Why only a small fraction of the particles are scattered at 0 > 90°? Mention two limitations of Rutherford nuclear model of an atom.·
+with the scattering angle 0 in Geiger-Marsden experiment. Why only a small fraction of the particles are scattered at 0 > 90Â°? Mention two limitations of Rutherford nuclear model of an atom.Â·
 
 
 
@@ -63,7 +63,7 @@ with the scattering angle 0 in Geiger-Marsden experiment. Why only a small fract
 
 
 
-• 55/5/1		5	.   [P.T.O.
+â€¢ 55/5/1		5	.   [P.T.O.
 
 
 
@@ -98,7 +98,7 @@ double slits? Derive the expression for theangular position of (i) bright and
 
 
 
-• 55/5/1		7	[P.T.O.
+â€¢ 55/5/1		7	[P.T.O.
 
 
 
@@ -162,7 +162,7 @@ beam of wavelength 331.5 nm.
 
 
 
-•55/5/1	
+â€¢55/5/1	
 
 
 
@@ -175,7 +175,7 @@ A
 
 (i) The angle of incidence (Lr2) at face AC.
 (ii) The angle of minimum deviation for this prism.
-11. (a)	(i)	Arrange the following electromagnetic radiation°in the	3
+11. (a)	(i)	Arrange the following electromagnetic radiationÂ°in the	3
 ascending order of their frequencies :
 X-rays, microwaves, gamma rays, radio waves
 (ii)	Write two uses of any two of these radiation.
@@ -186,7 +186,7 @@ telescope. Mention two advantages of a reflecting telescope over a refracting te
 
 
 
-• 55/5/1		11	[P.T.O.
+â€¢ 55/5/1		11	[P.T.O.
 
 
 
@@ -199,7 +199,7 @@ SECTION C
 bends away from the normal. When we keep increasing the angle of incidence, the angle of refraction also increases till the refracted ray grazes along the interface of two media. The angle of incidence for which it happens is called critical angle. If the angle of incidence is increased further the ray will not emerge and it will be reflected back in the denser medium. This
 phenomenon is called total internal reflection of light.
 
-(i) A ray of light travels from a medium into water at an angle of incidence of 18°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20°. Which one of the following figures best represents the correct path of the ray of light ?
+(i) A ray of light travels from a medium into water at an angle of incidence of 18Â°. The refractive index of the medium is more than that of water and the critical angle for the interface between the two media is 20Â°. Which one of the following figures best represents the correct path of the ray of light ?
 
 (A) (B)
 
@@ -216,11 +216,11 @@ phenomenon is called total internal reflection of light.
 
 
 
-(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index µ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
+(ii) A point source of light is placed at the bottom of a tank filled with water, of refractive index Âµ, to a depth d. The area of the surface of water through which light from the source can emerge, is :
 
 
 1td2
-(c) 2JµCi
+(c) 2JÂµCi
 
 
 (iii) For which of the following media, with respect to air, the value of critical angle is maximwn ?
@@ -235,15 +235,15 @@ Diamond
 (iv) The critical angle for a pair of two media A and B of refractive indices
 2.0 and I .0 respectively is :
 
-(a) 0°	(b) 30°	(c) 45°	(d) 60°
+(a) 0Â°	(b) 30Â°	(c) 45Â°	(d) 60Â°
 
-(v) The critical angle of pair of a medium and air is 30°. The speed of light in the medium is :
+(v) The critical angle of pair of a medium and air is 30Â°. The speed of light in the medium is :
 
 (a)	1 x 108 m s-1
 (c)	2.2 x 108 m s-1
 
 (b)	l.5x]08ms-1
-(d)	2.8xl08ms-•
+(d)	2.8xl08ms-â€¢
 
 
 
