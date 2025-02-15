@@ -35,7 +35,7 @@ SECTION B
 (a) maximum, and (b) minimum wavelengths.	3
 5. Briefly explain the generation and the separation of electrons and holes in a solar cell. Write two uses of solar cells.	3
 6. (a)	     .
-(b)	The ground state energy of a hydrogen atom is	13·6 eV. Find its	kinetic energy	and	potential energy		in the ground and the second excited states.			3
+(b)	The ground state energy of a hydrogen atom is	13Â·6 eV. Find its	kinetic energy	and	potential energy		in the ground and the second excited states.			3
 7. A ray of light passes through an equilateral triangular prism and suffers minimum deviation of 30 . Calculate :
 (a) the refractive index of the material of the prism.
 (b) the angle at which the ray is incident on the prism.	3
@@ -100,9 +100,9 @@ f	(iv)	f
 2a	4a
 
 
-(e) A parallel beam of light of wavelength 500 nm falls on a narrow slit. The diffraction pattern is observed on a screen 1 m away. The first minimum is at a distance of 2·5 mm from the centre of the screen. The width of the slit is :
-(i) 0·16 mm	(ii)   0·20 mm
-(iii)  0·40 mm	(iv)   0·60 mm	5 1=5
+(e) A parallel beam of light of wavelength 500 nm falls on a narrow slit. The diffraction pattern is observed on a screen 1 m away. The first minimum is at a distance of 2Â·5 mm from the centre of the screen. The width of the slit is :
+(i) 0Â·16 mm	(ii)   0Â·20 mm
+(iii)  0Â·40 mm	(iv)   0Â·60 mm	5 1=5
 55/B/5	Page 11
 
 
