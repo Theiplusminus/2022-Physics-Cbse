@@ -10,7 +10,7 @@ Read the following instructions very carefully and strictly follow them :
 c = 3 x 108 m/s
 h = 6.63 x 10-34 Js
 e = 1.6 x 10-19 C
-µ0 = 4n x 10-7 T m A-1
+Âµ0 = 4n x 10-7 T m A-1
 Eo = 8.854 X 10-12 C2 N-1 m-2
 
 
@@ -51,7 +51,7 @@ Justify your answer in each case.	3
 8. (a)	Write two necessary conditions for total internal reflection.
 (b)	Two prisms ABC and DBC are arranged as shown in figure.
 
-The critical angles for the two prisms with respect to air are 41.1° and 45° respectively. Trace the path of the ray through the combination.	3
+The critical angles for the two prisms with respect to air are 41.1Â° and 45Â° respectively. Trace the path of the ray through the combination.	3
 OR
 (a) An object is placed in front of a converging lens. Obtain the conditions under which the magnification produced by the lens is (i) negative and
 (ii) positive.
