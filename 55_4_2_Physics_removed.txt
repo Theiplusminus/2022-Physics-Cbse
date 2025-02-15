@@ -37,10 +37,10 @@ SECTION B
 2	2	3	1
 1	1	0
 
-3·27 MeV
+3Â·27 MeV
 
 Find the duration for which an electric bulb of 500 W can be kept glowing by the fusion of 100 g of deuterium.	3
-5. (a) In Geiger-Marsden experiment, calculate the distance of closest approach for an alpha particle with energy 2·56  10 12 J. Consider that the particle approaches gold nucleus (Z = 79) in head-on position.
+5. (a) In Geiger-Marsden experiment, calculate the distance of closest approach for an alpha particle with energy 2Â·56  10 12 J. Consider that the particle approaches gold nucleus (Z = 79) in head-on position.
 (b) If the above experiment is repeated with a proton of the same energy, then what will be the value of the distance of closest approach ?	3
 6. Answer the following, giving reason :	3 1=3
 (a) The resistance of a p-n junction is low when it is forward biased and is high when it is reversed biased.
@@ -56,18 +56,18 @@ experiment when the two sources S1 and S2 are far apart. Explain.
 
 (b)	Mention the conditions for the two sources to be coherent.
 (c)	
-slit experiment, if the source of wavelength	is replaced by another source of wavelength 1·5	, with the interference pattern
+slit experiment, if the source of wavelength	is replaced by another source of wavelength 1Â·5	, with the interference pattern
 still observable ?	3
 8. The wavelength of the waves associated with a particle having kinetic energy E is	. How and by what factor should its kinetic energy be
 changed so that the wavelength becomes	? Also, find the ratio of the
 final to the initial velocity of the particle.	3
 9. (a)  (i)  Draw a labelled ray diagram showing the formation of the image at infinity by an astronomical telescope.
-(ii) A telescope consists of an objective of focal length 150 cm and an eyepiece of focal length 6·0 cm. If the final image is formed at infinity, then calculate :
+(ii) A telescope consists of an objective of focal length 150 cm and an eyepiece of focal length 6Â·0 cm. If the final image is formed at infinity, then calculate :
 (I) the length of the tube in this adjustment, and
 (II) the magnification produced.	3
 OR
 (b) (i)  Draw a labelled ray diagram showing the formation of the image at least distance of distinct vision by a compound microscope.
-(ii) A small object is placed at a distance of 3·0 cm from a magnifier of focal length 4·0 cm. Find :
+(ii) A small object is placed at a distance of 3Â·0 cm from a magnifier of focal length 4Â·0 cm. Find :
 (I) the position of the image formed, and
 (II) the linear magnification produced.	3
 
